@@ -38,6 +38,7 @@
     "iOS >= 8"
   ],
   "dependencies": {
+    "buffer": "^6.0.3",
     "grapheme-breaker": "^0.3.2",
     "hull.js": "0.2.10",
     "ify-loader": "^1.0.4",
